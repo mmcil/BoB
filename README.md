@@ -3,7 +3,7 @@ Project: Bot of Binance
 </h1>
 
 ## About
-This is a new project that consists of 4 sub-projects which are:
+This is a new project that will consist of 4 sub-projects which are:
 
 - grabber: acquires the coin market data from https://coinmarketcap.com using the Python library BeautifulSoup 4
 
