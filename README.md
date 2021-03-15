@@ -5,7 +5,7 @@ Smart Government
 ## Project: Bot of Binance
 
 ## About
-This is a very recent project that consists of 4 sub-projects which are:
+This is a new project that consists of 4 sub-projects which are:
 
 - grabber: acquires the coin market data from https://coinmarketcap.com using the Python library BeautifulSoup 4
 
