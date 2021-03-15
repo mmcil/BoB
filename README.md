@@ -17,7 +17,7 @@ This is a new project that will consist of 4 sub-projects which are:
 This project will be written in Javascript. The last 2 sub-projects might be changed into Java Spring Boot or .Net Core framework in the future depending on the performance of analytical operations in JavaScript. 
 
 ## Contributing
-Feel free to point out any faults in the any of the projects as it will help to make further improvements. 
+Feel free to point out any faults in any of the projects as it will help to make further improvements. 
 
 ## Supporting
 You can support this free and open source software by:
