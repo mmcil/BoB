@@ -9,7 +9,7 @@ This is a new project that will consist of 4 sub-projects which are:
 
 - displayer: displays the market data in charts using tradingview/lightweight-charts (https://github.com/tradingview/lightweight-charts)
 
-- notifier: notifies the user when the coins which are tracked hit certain targets (node.js)
+- notifier: notifies the user when the coins which are tracked hit certain targets (Node JS)
 
 - bot: automatizes trading on Binance Exchange platform based on different trading strategies
 
