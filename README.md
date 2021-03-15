@@ -27,9 +27,9 @@ You can support this free and open source software by:
 - Creating pull requests, submitting bugs, suggesting new features or documentation updates.
 
 ## Donations
-Donations are based on voluntariness and only received in <img src="https://github.com/mmcil/BoB/blob/main/btc-symbol.jpg" width="30" height="30"/>  on the following address, no fiat currencies are accepted. 
+Donations are based on voluntariness and only received in <img src="https://github.com/mmcil/BoB/blob/main/btc-symbol.jpg" width="30" height="30" style="vertical-align:middle"/>  on the following address, no fiat currencies are accepted. 
 
-<img src="https://github.com/mmcil/BoB/blob/main/address.png" align="center" width="100" height="100"/>
+<img src="https://github.com/mmcil/BoB/blob/main/address.png" align="center" width="100" height="100" style="horizontal-align:middle"/>
 
 ## License
 Copyright (c) 2021 MMC. 
