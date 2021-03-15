@@ -7,13 +7,13 @@ Smart Government
 ## About
 This is a very recent project that consists of 4 sub-projects which are:
 
--grabber: acquires the coin market data from https://coinmarketcap.com using the Python library BeautifulSoup 4
+- grabber: acquires the coin market data from https://coinmarketcap.com using the Python library BeautifulSoup 4
 
--displayer: displays the market data in charts using tradingview/lightweight-charts (https://github.com/tradingview/lightweight-charts)
+- displayer: displays the market data in charts using tradingview/lightweight-charts (https://github.com/tradingview/lightweight-charts)
 
--notifier: notifies a person when the coins which are tracked hits certain targets (node.js)
+- notifier: notifies a person when the coins which are tracked hits certain targets (node.js)
 
--bot: automatizes trading on Binance Exchange platform based on different trading strategies
+- bot: automatizes trading on Binance Exchange platform based on different trading strategies
 
 ## Development
 This project will be written in Javascript. The last 2 sub-projects might be changed into Java Spring Boot or .Net Core framework in the future depending on the performance of analytical operations in JavaScript. 
@@ -27,7 +27,8 @@ You can support this free and open source software by:
 - Creating pull requests, submitting bugs, suggesting new features or documentation updates.
 
 ## Donations
-Donations are based on voluntariness and only accepted in Bitcoin, no fiat currencies are accepted. 
+Donations are based on voluntariness and only accepted in Bitcoin on the following address, no fiat currencies are accepted. 
+<img src="https://github.com/mmcil/BoB/blob/main/address.png" />
 
 ## License
 Copyright (c) 2021 MMC. 
