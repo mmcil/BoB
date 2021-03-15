@@ -27,7 +27,7 @@ You can support this free and open source software by:
 - Creating pull requests, submitting bugs, suggesting new features or documentation updates.
 
 ## Donations
-Donations are based on voluntariness and only received in <img src="https://github.com/mmcil/BoB/blob/main/btc-symbol.jpg" width="100" height="100"/>  on the following address, no fiat currencies are accepted. 
+Donations are based on voluntariness and only received in <img src="https://github.com/mmcil/BoB/blob/main/btc-symbol.jpg" width="20" height="20"/>  on the following address, no fiat currencies are accepted. 
 
 <img src="https://github.com/mmcil/BoB/blob/main/address.png" />
 
