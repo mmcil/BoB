@@ -3,7 +3,9 @@ Smart Government
 </h1>
 
 ## Project: Bot of Binance
-Consists of 4 sub-projects which are:
+
+## About
+This is a very recent project that consists of 4 sub-projects which are:
 
 -grabber: acquires the coin market data from https://coinmarketcap.com using the Python library BeautifulSoup 4
 
@@ -23,6 +25,9 @@ Feel free to point out any faults in the any of the projects as it will help to 
 You can support this free and open source software by:
 - Starring this GitHub repository,
 - Creating pull requests, submitting bugs, suggesting new features or documentation updates.
+
+## Donations
+Donations are based on voluntariness and only accepted in Bitcoin, no fiat currencies are accepted. 
 
 ## License
 Copyright (c) 2021 MMC. 
