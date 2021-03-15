@@ -1,8 +1,6 @@
 <h1 align="center">
-Smart Government
+Project: Bot of Binance
 </h1>
-
-## Project: Bot of Binance
 
 ## About
 This is a new project that consists of 4 sub-projects which are:
