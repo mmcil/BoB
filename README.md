@@ -7,7 +7,7 @@ This is a new project that will consist of 4 sub-projects which are:
 
 - grabber: acquires the coin market data from https://coinmarketcap.com using the Python library BeautifulSoup 4
 
-- displayer: displays the market data in charts using tradingview/lightweight-charts (https://github.com/tradingview/lightweight-charts)
+- market-theatre: displays the market data in charts using tradingview/lightweight-charts (https://github.com/tradingview/lightweight-charts)
 
 - notifier: notifies the user when the coins which are tracked hit certain targets (Node JS)
 
