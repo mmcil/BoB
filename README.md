@@ -11,7 +11,7 @@ This is a new project that will consist of 4 sub-projects which are:
 
 - notifier: notifies the user when the coins which are tracked hit certain targets (Node JS)
 
-- bot: automatizes trading on Binance Exchange platform based on different trading strategies
+- bot: automatizes trading on Binance Exchange platform using Binance APIs (https://github.com/binance) based on different trading strategies 
 
 ## Development
 This project will be written in Javascript. The last 2 sub-projects might be changed into Java Spring Boot or .Net Core framework in the future depending on the performance of analytical operations in JavaScript. 
