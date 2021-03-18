@@ -1,6 +1,9 @@
 <h1 align="center">
 Project: Bot of Binance
 </h1>
+<h2 align="center">
+(The Project has been turned into a private repository)
+</h2>
 
 ## About
 This is a new project that will consist of 4 sub-projects which are:
