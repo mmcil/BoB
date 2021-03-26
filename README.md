@@ -36,7 +36,7 @@ Donations are based on voluntariness and only received in Bitcoin (BTC <img src=
 
 <div align="center">
   <h3 align="center">Monero (XMR) QR Code</h3>
-  <img src="https://github.com/mmcil/BoB/blob/main/images/btc_address.png" width="200" height="200"/>
+  <img src="https://github.com/mmcil/BoB/blob/main/images/xmr_address.png" width="200" height="200"/>
 </div>
 
 No fiat currencies are accepted. 
