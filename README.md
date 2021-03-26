@@ -27,16 +27,16 @@ You can support this free and open source software by:
 - Creating pull requests, submitting bugs, suggesting new features or documentation updates.
 
 ## Donations
-Donations are based on voluntariness and only received in Bitcoin (BTC <img src="https://github.com/mmcil/BoB/blob/main/btc-symbol.jpg" width="30" height="30" style="vertical-align:top"/> and Monero (XMR <img src="https://github.com/mmcil/BoB/blob/main/monero.png" width="30" height="30" style="vertical-align:top"/>)  to the following addresses:
+Donations are based on voluntariness and only received in Bitcoin (BTC <img src="https://github.com/mmcil/BoB/blob/main/images/btc_symbol.jpg" width="30" height="30" style="vertical-align:top"/> and Monero (XMR <img src="https://github.com/mmcil/BoB/blob/main/monero.png" width="30" height="30" style="vertical-align:top"/>)  to the following addresses:
 
 <div align="center">
   <h3 align="center">Bitcoin (BTC) QR Code</h3>
-  <img src="https://github.com/mmcil/BoB/blob/main/address.png" width="200" height="200"/>
+  <img src="https://github.com/mmcil/BoB/blob/main/images/btc_address.png" width="200" height="200"/>
 </div>
 
 <div align="center">
   <h3 align="center">Monero (XMR) QR Code</h3>
-  <img src="https://github.com/mmcil/BoB/blob/main/address.png" width="200" height="200"/>
+  <img src="https://github.com/mmcil/BoB/blob/main/images/btc_address.png" width="200" height="200"/>
 </div>
 
 No fiat currencies are accepted. 
