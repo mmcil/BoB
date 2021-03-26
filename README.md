@@ -1,8 +1,7 @@
 <h1 align="center">
-Project: Bot of Binance
+  Project: Bot of Binance
 </h1>
 <h2 align="center">
-
 </h2>
 
 ## About
@@ -31,14 +30,13 @@ You can support this free and open source software by:
 Donations are based on voluntariness and only received in Bitcoin (BTC <img src="https://github.com/mmcil/BoB/blob/main/btc-symbol.jpg" width="30" height="30" style="vertical-align:top"/> and Monero (XMR <img src="https://github.com/mmcil/BoB/blob/main/monero.png" width="30" height="30" style="vertical-align:top"/>)  to the following addresses:
 
 <div align="center">
-  <div align="left">
-    <h3 align="center">Bitcoin (BTC) QR Code</h3>
-    <img src="https://github.com/mmcil/BoB/blob/main/address.png" width="200" height="200"/>
-  </div>
-  <div align="right">
-    <h3 align="center">Monero (XMR) QR Code</h3>
-    <img src="https://github.com/mmcil/BoB/blob/main/address.png" width="200" height="200"/>
-  </div>
+  <h3 align="center">Bitcoin (BTC) QR Code</h3>
+  <img src="https://github.com/mmcil/BoB/blob/main/address.png" width="200" height="200"/>
+</div>
+
+<div align="center">
+  <h3 align="center">Monero (XMR) QR Code</h3>
+  <img src="https://github.com/mmcil/BoB/blob/main/address.png" width="200" height="200"/>
 </div>
 
 No fiat currencies are accepted. 
