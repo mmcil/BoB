@@ -30,12 +30,12 @@ You can support this free and open source software by:
 Donations are based on voluntariness and only received in Bitcoin (BTC <img src="https://github.com/mmcil/BoB/blob/main/images/btc_symbol.jpg" width="30" height="30" style="vertical-align:top"/>) and Monero (XMR <img src="https://github.com/mmcil/BoB/blob/main/images/xmr_symbol.png" width="30" height="30" style="vertical-align:top"/>)  to the following addresses:
 
 <div align="center">
-  <h3 align="center">Bitcoin (BTC) QR Code</h3>
+  <h3 align="center">Bitcoin (BTC):</h3>
   <img src="https://github.com/mmcil/BoB/blob/main/images/btc_address.png" width="200" height="200"/>
 </div>
 
 <div align="center">
-  <h3 align="center">Monero (XMR) QR Code</h3>
+  <h3 align="center">Monero (XMR):</h3>
   <img src="https://github.com/mmcil/BoB/blob/main/images/xmr_address.png" width="200" height="200"/>
 </div>
 
