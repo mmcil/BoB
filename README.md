@@ -1,5 +1,5 @@
 <h1 align="center">
-  Project: Bot of Binance
+  Project: Bot of Bitcoin
 </h1>
 <h2 align="center">
 </h2>
