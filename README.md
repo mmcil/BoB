@@ -5,18 +5,22 @@
 </h2>
 
 ## About
-This is a new project that will consist of 4 sub-projects which are:
+This is a new project that will consist of 6 sub-projects which are:
 
-- grabber: acquires the coin market data from https://coinmarketcap.com using the Python library BeautifulSoup 4
+- grabber: acquires the coin market data from https://www.tradingview.com using the Python library BeautifulSoup 4
+
+- analyzer: finds the coins which are at their lowest levels, sorts them acc. to their estimated profit percentage (Node JS)
+
+- bot: automatizes some trading operations on Binance Exchange platform using Binance APIs (https://github.com/binance)
 
 - market-theatre: displays the market data in charts using tradingview/lightweight-charts (https://github.com/tradingview/lightweight-charts)
 
-- notifier: notifies the user when the coins which are tracked hit certain targets (Node JS)
-
-- bot: automatizes trading on Binance Exchange platform using Binance APIs (https://github.com/binance) based on different trading strategies 
+- dashboard: gets the lists of trade history and open orders, and shows a screen for the selected coin with its possible profit margin
+ 
+- autobot: automatizes everything based on different trading strategies 
 
 ## Development
-This project will be written in Javascript. The last 2 sub-projects might be changed into Java Spring Boot or .Net Core framework in the future depending on the performance of analytical operations in JavaScript. 
+This project will be written in Javascript. Some of the sub-projects might be changed into Java Spring Boot or .Net Core framework in the future depending on the performance of analytical operations in JavaScript. 
 
 ## Contributing
 Feel free to point out any faults in any of the projects as it will help to make further improvements. 
