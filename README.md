@@ -8,18 +8,18 @@
 This is a new project that will consist of 4 sub-projects which are:
 
 - agent:
-  consists of 2 subservices: grabber -> backend, screener -> frontend
+  consists of 2 subservices: grabber -> backend (Python), screener -> frontend (ReactJS)
     * grabber: gets the coin market data from https://www.tradingview.com using the Python library BeautifulSoup 4
     * screener: displays the market data in charts using tradingview/lightweight-charts 
     (https://github.com/tradingview/lightweight-charts)
 
 - researcher:
-  consists of 2 backend subservices: 
-    * analyzer: finds the coins which are at their lowest levels, sorts them acc. to their estimated profit percentage (Node JS)
+  consists of 2 NodeJS backend subservices: 
+    * analyzer: finds the coins which are at their lowest levels, sorts them acc. to their estimated profit percentage
     * notifier: sends notifications based on the results of the analyzer
 
 - dealer:
-  consists of 2 subservices: tashboard -> frontend, binancbot -> backend
+  consists of 2 subservices: tashboard -> frontend (ReactJS), binancbot -> backend (NodeJS)
     * tashboard: gets spot-wallet, open orders and trade history to display the coin with its possible profit margin
     * binancbot: automatizes HTTP requests for trading on Binance using Binance APIs (https://github.com/binance)  
  
