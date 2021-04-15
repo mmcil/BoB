@@ -5,19 +5,26 @@
 </h2>
 
 ## About
-This is a new project that will consist of 6 sub-projects which are:
+This is a new project that will consist of 4 sub-projects which are:
 
-- grabber: acquires the coin market data from https://www.tradingview.com using the Python library BeautifulSoup 4
+- agent:
+  consists of 2 subservices: grabber -> backend, screener -> frontend
+    * grabber: gets the coin market data from https://www.tradingview.com using the Python library BeautifulSoup 4
+    * screener: displays the market data in charts using tradingview/lightweight-charts 
+    (https://github.com/tradingview/lightweight-charts)
 
-- analyzer: finds the coins which are at their lowest levels, sorts them acc. to their estimated profit percentage (Node JS)
+- researcher:
+  consists of 2 backend subservices: 
+    * analyzer: finds the coins which are at their lowest levels, sorts them acc. to their estimated profit percentage (Node JS)
+    * notifier: sends notifications based on the results of the analyzer
 
-- bot: automatizes some trading operations on Binance Exchange platform using Binance APIs (https://github.com/binance)
-
-- market-theatre: displays the market data in charts using tradingview/lightweight-charts (https://github.com/tradingview/lightweight-charts)
-
-- dashboard: gets the lists of trade history and open orders, and shows a screen for the selected coin with its possible profit margin
+- dealer:
+  consists of 2 subservices: tashboard -> frontend, binancbot -> backend
+    * tashboard: gets spot-wallet, open orders and trade history to display the coin with its possible profit margin
+    * binancbot: automatizes HTTP requests for trading on Binance using Binance APIs (https://github.com/binance)  
  
-- autobot: automatizes everything based on different trading strategies 
+- autobot: 
+  automatizes everything based on different trading strategies 
 
 ## Development
 This project will be written in Javascript. Some of the sub-projects might be changed into Java Spring Boot or .Net Core framework in the future depending on the performance of analytical operations in JavaScript. 
