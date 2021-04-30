@@ -52,6 +52,7 @@ Donations are based on voluntariness and received in both Bitcoin (BTC <img src=
   <img src="https://github.com/mmcil/BoB/blob/main/images/xmr_address.png" width="200" height="200"/>
 </div>
 
+
 No fiat currencies are accepted. 
 
 ## License
