@@ -8,8 +8,8 @@
 This is a new project that will consist of 4 sub-projects which are:
 
 - agent:
-  consists of 2 subservices: grabber -> backend (Python), screener -> frontend (ReactJS)
-    * grabber: gets the coin market data from https://www.tradingview.com using the Python library BeautifulSoup 4
+  consists of 2 subservices: grabber -> backend (NodeJS), screener -> frontend (ReactJS)
+    * grabber: gets the coin market data from https://www.tradingview.com
     * screener: displays the market data in charts using tradingview/lightweight-charts 
     (https://github.com/tradingview/lightweight-charts)
 
@@ -35,7 +35,9 @@ Feel free to point out any faults in any of the projects as it will help to make
 ## Supporting
 You can support this free and open source software by:
 - Starring this GitHub repository,
-- Creating pull requests, submitting bugs, suggesting new features or documentation updates.
+- Creating pull requests, 
+- Submitting bugs, 
+- Suggesting new features or documentation updates.
 
 ## Donations
 Donations are based on voluntariness and received in both Bitcoin (BTC <img src="https://github.com/mmcil/BoB/blob/main/images/btc_symbol.jpg" width="30" height="30" style="vertical-align:top"/>) and Monero (XMR <img src="https://github.com/mmcil/BoB/blob/main/images/xmr_symbol.png" width="30" height="30" style="vertical-align:top"/>)  to the following addresses:
