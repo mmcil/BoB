@@ -1,8 +1,6 @@
 <h1 align="center">
   Project: Bot of Bitcoin
 </h1>
-<h2 align="center">
-</h2>
 
 ## About
 This is a new project that will consist of 4 sub-projects which are:
@@ -51,7 +49,6 @@ Donations are based on voluntariness and received in both Bitcoin (BTC <img src=
   <h3 align="center">Monero (XMR):</h3>
   <img src="https://github.com/mmcil/BoB/blob/main/images/xmr_address.png" width="200" height="200"/>
 </div>
-
 
 No fiat currencies are accepted. 
 
