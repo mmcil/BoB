@@ -22,7 +22,9 @@ This is a new project that will consist of 4 sub-projects which are:
     * binancbot: automatizes HTTP requests for trading on Binance using Binance APIs (https://github.com/binance)  
  
 - autobot: 
-  automatizes everything based on different trading strategies 
+  automatizes everything based on different trading strategies
+  
+** Backend frameworks might be changed from NodeJS into ".NET (Core) 5" or "Spring MVC" based on arithmetic performance requirements. 
 
 ## Development
 This project will be written in Javascript. Some of the sub-projects might be changed into Java Spring Boot or .Net Core framework in the future depending on the performance of analytical operations in JavaScript. 
