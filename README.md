@@ -13,7 +13,7 @@ This is a new project that will consist of 4 sub-projects which are:
 
 - researcher:
   consists of 2 NodeJS backend subservices: 
-    * analyzer: finds the coins which are at their lowest levels, sorts them acc. to their estimated profit percentage
+    * analyzer: finds the coins which are at their lowest levels, sorts them wrt their estimated profit percentage
     * notifier: sends notifications based on the results of the analyzer
 
 - dealer:
