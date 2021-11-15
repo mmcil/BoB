@@ -3,7 +3,8 @@
 </h1>
 
 ## About
-Notice: This project has been relocated to a private repo due to the very high profit margin it can realize.  
+Notice: This project has been relocated to a private repo due to the very high (nearly excellent) profit margin it can realize.
+
 This is a new project that will consist of 4 sub-projects which are:
 
 - agent:
